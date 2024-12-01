@@ -60,3 +60,6 @@ end
 
 
 gem "vite_rails"
+
+gem "prettier_print", "~> 1.2", :group => :development
+gem "syntax_tree", "~> 6.2", :group => :development

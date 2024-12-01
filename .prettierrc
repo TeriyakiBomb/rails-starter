@@ -1,0 +1,27 @@
+{
+  "overrides": [
+    {
+      "files": "*.erb",
+      "options": {
+        "parser": "html"
+      }
+    },
+    {
+      "files": "erb",
+      "options": {
+        "parser": "html"
+      }
+    },
+    {
+      "files": "*.html.erb",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ],
+  "plugins": [
+    "prettier-plugin-tailwindcss",
+    "@prettier/plugin-ruby",
+    "@4az/prettier-plugin-html-erb"
+  ]
+}
