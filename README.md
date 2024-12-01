@@ -14,7 +14,7 @@ You need to run both `bin/vite dev` and `rails s`, If you use a multiplexer like
 
 - Uses Yarn
 - This currently does not work with Ruby LSP in VSCode, as it cannot target .erb files.
-  Running this setup in Panic Nova, it works great.
+  Running this setup in Panic Nova, it works great and doesn't clash with solargraph/rubocop in my setup
 - @4az/prettier-plugin-html-erb has some minor issues with .erb formatting at the moment.
 
 ## Troubleshooting
