@@ -4,7 +4,7 @@
 
 "@4az/prettier-plugin-html-erb@^0.0.6":
   version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@4az/prettier-plugin-html-erb/-/prettier-plugin-html-erb-0.0.6.tgz#1040cd6e3bc488c6668b03120eb119caebc49fc7"
+  resolved "https://registry.npmjs.org/@4az/prettier-plugin-html-erb/-/prettier-plugin-html-erb-0.0.6.tgz"
   integrity sha512-PB2jcgU6mIlp8tTLzDD756FcT1+lKKCCwACh/XX+hU5nEEaNsdX6eHZkznlqyw1LiFpyYGc381M44gywOpPy4Q==
 
 "@esbuild/aix-ppc64@0.21.5":
@@ -145,7 +145,7 @@
 
 "@prettier/plugin-ruby@^4.0.4":
   version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@prettier/plugin-ruby/-/plugin-ruby-4.0.4.tgz#73d85fc2a1731a3f62b57ac3116cf1c234027cb6"
+  resolved "https://registry.npmjs.org/@prettier/plugin-ruby/-/plugin-ruby-4.0.4.tgz"
   integrity sha512-lCpvfS/dQU5WrwN3AQ5vR8qrvj2h5gE41X08NNzAAXvHdM4zwwGRcP2sHSxfu6n6No+ljWCVx95NvJPFTTjCTg==
 
 "@rollup/rollup-android-arm-eabi@4.28.0":
@@ -382,26 +382,14 @@ postcss@^8.4.43:
     picocolors "^1.1.1"
     source-map-js "^1.2.1"
 
-prettier-plugin-ruby@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-ruby/-/prettier-plugin-ruby-0.3.1.tgz#0bd29cf9aa6d4d2f708b67c70ec5f9455c208215"
-  integrity sha512-ASJ+YpeFeSiHEU2eR1goWLqusRqSIpb2J9Fsh6loDJ8lx09peKKoV6w5ZnO5ggHBz5UHyd2HNe8Wr1gApSXXHA==
-  dependencies:
-    prettier "^1.16.4"
-
 prettier-plugin-tailwindcss@^0.6.9:
   version "0.6.9"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.6.9.tgz#db84c32918eae9b44e5a5f0aa4d1249cc39fa739"
+  resolved "https://registry.npmjs.org/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.6.9.tgz"
   integrity sha512-r0i3uhaZAXYP0At5xGfJH876W3HHGHDp+LCRUJrs57PBeQ6mYHMwr25KH8NPX44F2yGTvdnH7OqCshlQx183Eg==
-
-prettier@^1.16.4:
-  version "1.19.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
-  integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
 
 prettier@^3.4.1:
   version "3.4.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.1.tgz#e211d451d6452db0a291672ca9154bc8c2579f7b"
+  resolved "https://registry.npmjs.org/prettier/-/prettier-3.4.1.tgz"
   integrity sha512-G+YdqtITVZmOJje6QkXQWzl3fSfMxFwm1tjTyo9exhkmWSqC4Yhd1+lug++IlR2mvRVAxEDDWYkQdeSztajqgg==
 
 queue-microtask@^1.2.2:
@@ -490,7 +478,7 @@ vite-plugin-manifest-sri@^0.2.0:
 
 vite-plugin-rails@^0.5.0:
   version "0.5.0"
-  resolved "https://registry.npmjs.org/vite-plugin-rails/-/vite-plugin-rails-0.5.0.tgz"
+  resolved "https://registry.yarnpkg.com/vite-plugin-rails/-/vite-plugin-rails-0.5.0.tgz#fe29827b6f42abbc6e6537748963bb93871f468c"
   integrity sha512-PR3zTHW96X8c7dRsuL2Mu1EAXXeO8fQjQ2KanwIC7EWgBST+D8AKjJyEUAr13IakrIYvd1cM3LcQUcrKmCMePg==
   dependencies:
     rollup-plugin-gzip "^3.1.0"
